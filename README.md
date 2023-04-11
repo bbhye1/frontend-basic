@@ -1,5 +1,6 @@
-# Frontend textbook
+---
+description: Git Book을 적극 활용해보자.
+---
 
-frontend 개발자라면 꼭 알아야 할 개념 모음집
+# Git Book 가이드
 
-[GitBook link](https://rosie-1.gitbook.io/frontend-basic/)

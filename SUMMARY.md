@@ -1,5 +1,4 @@
 # Table of contents
 
-- [Frontend textbook](README.md)
-- [🔧 개발 환경 세팅](week1/README.md)
-  - [개발 환경](week1/settings.md)
+* [Git Book 가이드](README.md)
+* [GitHub과 연동하기](integration-with-github.md)
